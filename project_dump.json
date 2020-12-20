@@ -1,0 +1,1129 @@
+[
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "car_title": "2017 Ferrari 488 GTB",
+        "state": "VA",
+        "city": "Austin",
+        "color": "White",
+        "model": "488 GTB",
+        "year": 2017,
+        "condition": "Used",
+        "price": 40000,
+        "description": "<p>The&nbsp;<strong>Ferrari 488</strong>&nbsp;(Type F142M) is a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Rear_mid-engine,_rear-wheel_drive_layout\" title=\"Rear mid-engine, rear-wheel drive layout\">mid-engine</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Sports_car\" title=\"Sports car\">sports car</a>&nbsp;produced by the Italian automobile manufacturer&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari\" title=\"Ferrari\">Ferrari</a>. The car replaced the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_458\" title=\"Ferrari 458\">458</a>, being the first mid-engine Ferrari to use a turbocharged V8 since the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_F40\" title=\"Ferrari F40\">F40</a>.</p>\r\n\r\n<p>The car is powered by a 3.9-litre&nbsp;<a href=\"https://en.wikipedia.org/wiki/Twin-turbocharged\" title=\"Twin-turbocharged\">twin-turbocharged</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/V8_engine\" title=\"V8 engine\">V8 engine</a>, smaller in displacement but generating a higher power output than the 458&#39;s&nbsp;<a href=\"https://en.wikipedia.org/wiki/Naturally_aspirated_engine\" title=\"Naturally aspirated engine\">naturally aspirated engine</a>. The 488 GTB was named &quot;The Supercar of the Year 2015&quot; by car magazine&nbsp;<a href=\"https://en.wikipedia.org/wiki/Top_Gear_(magazine)\" title=\"Top Gear (magazine)\"><em>Top Gear</em></a>, as well as becoming&nbsp;<em><a href=\"https://en.wikipedia.org/wiki/Motor_Trend\" title=\"Motor Trend\">Motor Trend</a></em>&#39;s 2017 &quot;Best Driver&#39;s Car&quot;.<a href=\"https://en.wikipedia.org/wiki/Ferrari_488#cite_note-7\">[7]</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jeremy_Clarkson\" title=\"Jeremy Clarkson\">Jeremy Clarkson</a>&nbsp;announced the 488 Pista as his 2019 Supercar of the Year.<a href=\"https://en.wikipedia.org/wiki/Ferrari_488#cite_note-8\">[8]</a>&nbsp;The 488 was succeeded by the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_F8_Tributo\" title=\"Ferrari F8 Tributo\">F8 Tributo</a>&nbsp;in February 2019.</p>",
+        "car_photo": "photos/2020/12/15/1902536891.jpg",
+        "car_photo_1": "photos/2020/12/15/1902536917.jpg",
+        "car_photo_2": "photos/2020/12/15/1902537043.jpg",
+        "car_photo_3": "photos/2020/12/15/1902537077.jpg",
+        "car_photo_4": "photos/2020/12/15/1902537082.jpg",
+        "features": "Cruise Control,Airbags,Seat Heating,ParkAssist,Reversing Camera,Auto Start/Stop,Bluetooth Handset",
+        "body_style": "Sport",
+        "engine": "3.4L Mid-Engine V6",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 10000,
+        "doors": "3",
+        "passengers": 0,
+        "vin_no": "WPEQ52876DF45",
+        "milage": 5,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2020-12-15T10:02:16Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "car_title": "2017 Ford Edge",
+        "state": "TX",
+        "city": "Dallas",
+        "color": "Black",
+        "model": "Edge",
+        "year": 2017,
+        "condition": "Used",
+        "price": 25000,
+        "description": "<p>The&nbsp;<strong>Ford Edge</strong>&nbsp;is a range of&nbsp;<a href=\"https://en.wikipedia.org/wiki/Crossover_SUV\" title=\"Crossover SUV\">crossover SUVs</a>&nbsp;manufactured by the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company\" title=\"Ford Motor Company\">Ford Motor Company</a>. Introduced for the 2007 model year, the Edge is the first&nbsp;<a href=\"https://en.wikipedia.org/wiki/Crossover_(automobile)\" title=\"Crossover (automobile)\">CUV</a>&nbsp;marketed by Ford in North America; the model line is currently in its second generation. Deriving its name from a trim package of the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Ranger_(Americas)\" title=\"Ford Ranger (Americas)\">Ford Ranger</a>, the Ford Edge is slotted between the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Escape\" title=\"Ford Escape\">Ford Escape</a>&nbsp;and the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Explorer\" title=\"Ford Explorer\">Ford Explorer</a>&nbsp;within the Ford product line.</p>",
+        "car_photo": "photos/2020/12/15/1901478607.jpg",
+        "car_photo_1": "photos/2020/12/15/1901478618.jpg",
+        "car_photo_2": "photos/2020/12/15/1901478646.jpg",
+        "car_photo_3": "photos/2020/12/15/1901478672.jpg",
+        "car_photo_4": "photos/2020/12/15/1901478687.jpg",
+        "features": "Cruise Control,Audio Interface,Air Conditioning,Alarm System,ParkAssist,Reversing Camera,Direct Fuel Injection,Wind Deflector,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "3.4L Mid-Engine V7",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 15000,
+        "doors": "5",
+        "passengers": 5,
+        "vin_no": "WPEQ52876DF57",
+        "milage": 8,
+        "fuel_type": "Petrol",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_date": "2020-12-15T10:47:07Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "car_title": "2017 Ford F-250 Super Duty",
+        "state": "NY",
+        "city": "Ohio",
+        "color": "Black",
+        "model": "F-250",
+        "year": 2017,
+        "condition": "Used",
+        "price": 30000,
+        "description": "<p>The&nbsp;<strong>Ford Super Duty</strong>&nbsp;(short for F-Series Super Duty) is a series of trucks manufactured by&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company\" title=\"Ford Motor Company\">Ford Motor Company</a>. Introduced in 1998 for the 1999 model year, the F-Series Super Duty trucks marked the addition of a heavy-duty pickup to the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_F-Series\" title=\"Ford F-Series\">Ford F-Series</a>&nbsp;range with the new versions of the F-250, F-350, and F-450 pickups, while the previous 1987&ndash;1997 F-Super Duty&nbsp;<a href=\"https://en.wikipedia.org/wiki/Chassis_cab\" title=\"Chassis cab\">chassis cabs</a>&nbsp;were replaced by the F-450 chassis cab and F-550 Super Duty.</p>",
+        "car_photo": "photos/2020/12/15/1894300894.jpg",
+        "car_photo_1": "photos/2020/12/15/1894300905.jpg",
+        "car_photo_2": "photos/2020/12/15/1894300920.jpg",
+        "car_photo_3": "photos/2020/12/15/1900155012.jpg",
+        "car_photo_4": "photos/2020/12/15/1900155133.jpg",
+        "features": "Airbags,Air Conditioning,Alarm System,ParkAssist,Reversing Camera,Direct Fuel Injection,Wind Deflector,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "3.4L Mid-Engine V7",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 12999,
+        "doors": "3",
+        "passengers": 2,
+        "vin_no": "WPEQ52876DF985",
+        "milage": 10,
+        "fuel_type": "Diesel",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2020-12-15T10:51:33Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 4,
+    "fields": {
+        "car_title": "2017 Jaguar F-PACE",
+        "state": "TX",
+        "city": "Austin",
+        "color": "Green",
+        "model": "F-PACE",
+        "year": 2017,
+        "condition": "Used",
+        "price": 50000,
+        "description": "<p>The&nbsp;<strong>Jaguar F-Pace</strong>&nbsp;(X761) is a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Compact_executive_car\" title=\"Compact executive car\">compact luxury</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Crossover_SUV\" title=\"Crossover SUV\">crossover SUV</a>&nbsp;made by British&nbsp;<a href=\"https://en.wikipedia.org/wiki/Automaker\" title=\"Automaker\">car manufacturer</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jaguar_Land_Rover\" title=\"Jaguar Land Rover\">Jaguar Land Rover</a>&nbsp;under their&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jaguar_Cars\" title=\"Jaguar Cars\">Jaguar marque</a>, the first model to be built by Jaguar in the crossover SUV class. It was formally announced at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/North_American_International_Auto_Show#2015\" title=\"North American International Auto Show\">2015 North American International Auto Show</a>&nbsp;in Detroit, with sales commencing in 2016 following an unveiling at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/International_Motor_Show_Germany#2015\" title=\"International Motor Show Germany\">International Motor Show Germany</a>&nbsp;in Frankfurt in September 2015.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-4\">[4]</a>&nbsp;The design of the F-Pace is based on the 2013&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jaguar_C-X17\" title=\"Jaguar C-X17\">Jaguar C-X17</a>&nbsp;concept car</p>",
+        "car_photo": "photos/2020/12/15/1902932503.jpg",
+        "car_photo_1": "photos/2020/12/15/1902932514.jpg",
+        "car_photo_2": "photos/2020/12/15/1902932528.jpg",
+        "car_photo_3": "photos/2020/12/15/1902932542.jpg",
+        "car_photo_4": "",
+        "features": "Cruise Control,Airbags,Air Conditioning,Alarm System,ParkAssist,Reversing Camera,Direct Fuel Injection,Wind Deflector,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "3.4L Mid-Engine V4",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 12500,
+        "doors": "5",
+        "passengers": 5,
+        "vin_no": "WPEQ52876DF84",
+        "milage": 7,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2020-12-15T10:55:24Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 5,
+    "fields": {
+        "car_title": "2018 Toyota 4Runner",
+        "state": "FL",
+        "city": "Miami",
+        "color": "Silver",
+        "model": "4Runner",
+        "year": 2018,
+        "condition": "Used",
+        "price": 33000,
+        "description": "<p>The&nbsp;<strong>Toyota 4Runner</strong>&nbsp;is a compact, later mid-size&nbsp;<a href=\"https://en.wikipedia.org/wiki/Sport_utility_vehicle\" title=\"Sport utility vehicle\">sport utility vehicle</a>&nbsp;produced by the Japanese manufacturer&nbsp;<a href=\"https://en.wikipedia.org/wiki/Toyota\" title=\"Toyota\">Toyota</a>&nbsp;and sold throughout the world from 1984 to present. In Japan, it is known as the&nbsp;<strong>Toyota Hilux Surf</strong>&nbsp;&nbsp;which was withdrawn from the market in 2009. The original 4Runner was a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Compact_SUV\" title=\"Compact SUV\">compact SUV</a>&nbsp;and little more than a Toyota pickup truck with a fiberglass shell over the bed, but the model has since undergone significant independent development into a cross between a compact and a mid-size SUV. All 4Runners have been built in Japan at Toyota&#39;s&nbsp;<a href=\"https://en.wikipedia.org/wiki/Tahara_plant\" title=\"Tahara plant\">plant</a>&nbsp;in&nbsp;<a href=\"https://en.wikipedia.org/wiki/Tahara,_Aichi\" title=\"Tahara, Aichi\">Tahara, Aichi</a>, or at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Hino_Motors\" title=\"Hino Motors\">Hino Motors</a>&nbsp;(a Toyota subsidiary) plant in&nbsp;<a href=\"https://en.wikipedia.org/wiki/Hamura\" title=\"Hamura\">Hamura</a>.</p>",
+        "car_photo": "photos/2020/12/16/1893633875.jpg",
+        "car_photo_1": "photos/2020/12/16/1893633879.jpg",
+        "car_photo_2": "photos/2020/12/16/1893633884.jpg",
+        "car_photo_3": "photos/2020/12/16/1896836883.jpg",
+        "car_photo_4": "photos/2020/12/16/1896836887.jpg",
+        "features": "Cruise Control,Airbags,Seat Heating,Alarm System,Reversing Camera,Auto Start/Stop,Bluetooth Handset",
+        "body_style": "Sport",
+        "engine": "3.4L Mid-Engine V5",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 5000,
+        "doors": "3",
+        "passengers": 4,
+        "vin_no": "WPEQ52876DF64",
+        "milage": 11,
+        "fuel_type": "Diesel",
+        "no_of_owners": "2",
+        "is_featured": false,
+        "created_date": "2020-12-16T09:16:02Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 6,
+    "fields": {
+        "car_title": "2018 Toyota Corolla",
+        "state": "IN",
+        "city": "Carmel",
+        "color": "White",
+        "model": "Corolla",
+        "year": 2018,
+        "condition": "Used",
+        "price": 20000,
+        "description": "<p>The&nbsp;<strong>Toyota Corolla&nbsp;</strong>is a line of&nbsp;<a href=\"https://en.wikipedia.org/wiki/Subcompact_car\" title=\"Subcompact car\">subcompact</a>&nbsp;and&nbsp;<a href=\"https://en.wikipedia.org/wiki/Compact_car\" title=\"Compact car\">compact cars</a>&nbsp;manufactured by&nbsp;<a href=\"https://en.wikipedia.org/wiki/Toyota\" title=\"Toyota\">Toyota</a>. Introduced in 1966, the Corolla was the best-selling car worldwide by 1974 and has been one of the best-selling cars in the world since then. In 1997, the Corolla became the&nbsp;<a href=\"https://en.wikipedia.org/wiki/List_of_automobile_sales_by_model\" title=\"List of automobile sales by model\">best selling nameplate in the world</a>, surpassing the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Volkswagen_Beetle\" title=\"Volkswagen Beetle\">Volkswagen Beetle</a>.<a href=\"https://en.wikipedia.org/wiki/Toyota_Corolla#cite_note-1\">[1]</a>&nbsp;Toyota reached the milestone of 44 million Corollas sold over twelve generations in 2016.<a href=\"https://en.wikipedia.org/wiki/Toyota_Corolla#cite_note-44million-2\">[2]</a>&nbsp;The series has undergone several major redesigns.</p>\r\n\r\n<p>The name&nbsp;<em><a href=\"https://en.wikipedia.org/wiki/Corolla_(headgear)\" title=\"Corolla (headgear)\">Corolla</a></em>&nbsp;is part of Toyota&#39;s naming tradition of using names derived from the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Toyota_Crown\" title=\"Toyota Crown\">Toyota Crown</a>&nbsp;for sedans, with&nbsp;<em>&quot;<a href=\"https://en.wiktionary.org/wiki/corolla\" title=\"wikt:corolla\">corolla</a>&quot;</em>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Latin\" title=\"Latin\">Latin</a>&nbsp;for &quot;small crown&quot;.<a href=\"https://en.wikipedia.org/wiki/Toyota_Corolla#cite_note-3\">[3]</a>&nbsp;The Corolla has always been exclusive in Japan to&nbsp;<em><a href=\"https://en.wikipedia.org/wiki/Toyota_Netz\" title=\"Toyota Netz\">Toyota Corolla Store</a></em>&nbsp;locations, and manufactured in Japan with a twin, called the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Toyota_Sprinter\" title=\"Toyota Sprinter\">Toyota Sprinter</a>&nbsp;until 2000. From 2006 to 2018 in Japan and much of the world, and from 2018 to 2020 in Taiwan, the hatchback companion had been called the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Toyota_Auris\" title=\"Toyota Auris\">Toyota Auris</a>.</p>",
+        "car_photo": "photos/2020/12/16/1900893299.jpg",
+        "car_photo_1": "photos/2020/12/16/1900893311.jpg",
+        "car_photo_2": "photos/2020/12/16/1900893319.jpg",
+        "car_photo_3": "photos/2020/12/16/1900893329.jpg",
+        "car_photo_4": "photos/2020/12/16/1900893391.jpg",
+        "features": "Audio Interface,Air Conditioning,Seat Heating,Power Steering,Direct Fuel Injection,Wind Deflector,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "3.4L Mid-Engine V4",
+        "transmission": "Manual",
+        "interior": "Black",
+        "miles": 8000,
+        "doors": "4",
+        "passengers": 4,
+        "vin_no": "WPEQ52876DF92",
+        "milage": 13,
+        "fuel_type": "Diesel",
+        "no_of_owners": "1",
+        "is_featured": false,
+        "created_date": "2020-12-16T09:21:28Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 1,
+    "fields": {
+        "first_name": "Shreenath",
+        "last_name": "Bharadwaj",
+        "designation": "CEO",
+        "photo": "photos/2020/12/14/4-removebg-preview.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2020-12-13T22:14:43.063Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 2,
+    "fields": {
+        "first_name": "Eacknath",
+        "last_name": "Bharadwaj",
+        "designation": "Creative Director",
+        "photo": "photos/2020/12/14/3.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2020-12-13T22:29:36.265Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 3,
+    "fields": {
+        "first_name": "Bill",
+        "last_name": "Gates",
+        "designation": "Genaral Manager",
+        "photo": "photos/2020/12/20/23973-7-bill-gates-file.png",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2020-12-13T22:35:40.204Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 4,
+    "fields": {
+        "first_name": "Mark",
+        "last_name": "Zuckerberg",
+        "designation": "Web Developer",
+        "photo": "photos/2020/12/20/3-2-mark-zuckerberg-free-download-png.png",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2020-12-13T22:36:24.731Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 5,
+    "fields": {
+        "first_name": "Will",
+        "last_name": "Smith",
+        "designation": "Support Manager",
+        "photo": "photos/2020/12/20/avatar-12.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2020-12-13T22:38:13.653Z"
+    }
+},
+{
+    "model": "contact.contact",
+    "pk": 1,
+    "fields": {
+        "first_name": "Shreenath",
+        "last_name": "Bharadwaj",
+        "car_id": 1,
+        "customer_need": "I'd like to know your best price for this",
+        "car_title": "2017 Ferrari 488 GTB",
+        "city": "ROURKELA",
+        "state": "Orissa",
+        "email": "bharadwajshreenath@gmail.com",
+        "phone": "+919078008781",
+        "message": "",
+        "user_id": 1,
+        "create_date": "2020-12-19T22:14:42.414Z"
+    }
+},
+{
+    "model": "contact.contact",
+    "pk": 2,
+    "fields": {
+        "first_name": "Shreenath",
+        "last_name": "Bharadwaj",
+        "car_id": 5,
+        "customer_need": "I'm interested in this",
+        "car_title": "2018 Toyota 4Runner",
+        "city": "ROURKELA",
+        "state": "Orissa",
+        "email": "bharadwajshreenath@gmail.com",
+        "phone": "+919078008781",
+        "message": "",
+        "user_id": 1,
+        "create_date": "2020-12-19T22:18:46.279Z"
+    }
+},
+{
+    "model": "contact.contact",
+    "pk": 3,
+    "fields": {
+        "first_name": "Shreenath",
+        "last_name": "Bharadwaj",
+        "car_id": 4,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Jaguar F-PACE",
+        "city": "ROURKELA",
+        "state": "Orissa",
+        "email": "bharadwajshreenath3@gmail.com",
+        "phone": "+919078008781",
+        "message": "",
+        "user_id": 1,
+        "create_date": "2020-12-19T22:34:35.282Z"
+    }
+},
+{
+    "model": "contact.contact",
+    "pk": 4,
+    "fields": {
+        "first_name": "Shreenath",
+        "last_name": "Bharadwaj",
+        "car_id": 4,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Jaguar F-PACE",
+        "city": "ROURKELA",
+        "state": "Orissa",
+        "email": "bharadwajshreenath@gmail.com",
+        "phone": "+919078008781",
+        "message": "",
+        "user_id": 4,
+        "create_date": "2020-12-19T23:15:11.130Z"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$216000$aI6fM2ujEacv$fqx0Ne3SkGmOkgcnFjTtGQESZXJkyc4SlgE++IdVyeg=",
+        "last_login": "2020-12-20T06:45:15.634Z",
+        "is_superuser": true,
+        "username": "shreenathbharadwaj",
+        "first_name": "Shreenath",
+        "last_name": "Bharadwaj",
+        "email": "bharadwajshreenath3@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2020-12-13T21:56:46Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$216000$hjNsZRa6iBdH$mBnffhQJs74cFR1YKaHOAqn0Yv/qtvBhLPzT2+jTwW0=",
+        "last_login": "2020-12-18T04:39:47.327Z",
+        "is_superuser": false,
+        "username": "shreenath2001",
+        "first_name": "Shreenath",
+        "last_name": "Bharadwaj",
+        "email": "bharadwajshreenath@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-12-18T04:39:46.991Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$216000$IKEs7mo6rkHQ$nbwB8v5vap294gxG4EeMAX2553TCsc7+NMUnG6wou84=",
+        "last_login": "2020-12-18T04:54:55.373Z",
+        "is_superuser": false,
+        "username": "119EE0226",
+        "first_name": "Shreenath",
+        "last_name": "Bharadwaj",
+        "email": "119EE0226@nitrkl.ac.in",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-12-18T04:54:55.204Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!AjcGObXeWEIhw0HErEol7TxEOjVGJSTIvBBsZHu9",
+        "last_login": "2020-12-19T17:44:01.883Z",
+        "is_superuser": false,
+        "username": "shreenath",
+        "first_name": "Shreenath",
+        "last_name": "Bharadwaj",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-12-18T10:49:04.272Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!5Ux6b9MRu196it1fRIWmNbBwmC0txHA1mIcfutQl",
+        "last_login": "2020-12-18T10:58:34.088Z",
+        "is_superuser": false,
+        "username": "shreenath7",
+        "first_name": "Shreenath",
+        "last_name": "Bharadwaj",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-12-18T10:58:34.044Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!4GLvaG4yErRVTwOD7y1v9jRrDGuBLTpzSMWVt5K9",
+        "last_login": "2020-12-18T10:59:15.613Z",
+        "is_superuser": false,
+        "username": "dr_mahesh",
+        "first_name": "Dr Mahesh",
+        "last_name": "Jha",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-12-18T10:59:15.566Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$216000$bDC4gSjdjeLX$130ED+r/Qx6tSjHhwBVeChnaeTg7HDe6DmREM2zRIeE=",
+        "last_login": "2020-12-19T17:38:26.895Z",
+        "is_superuser": false,
+        "username": "testing3210",
+        "first_name": "test",
+        "last_name": "user",
+        "email": "eacknath98@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-12-19T17:38:07.570Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "160tu05ctfxn2ekjou588bk37bakbbkv",
+    "fields": {
+        "session_data": ".eJxVjLsOwjAMAP8lM4ritM2DkZ1viOzYkAJKpaadEP-OInWA9e50b5Vw30ram6xpZnVWoE6_jDA_pXbBD6z3ReelbutMuif6sE1fF5bX5Wj_BgVb6VsiE29owLko3lgCcVl4QiExMXg3jJkYJ4_OQQCLGNDGkY0FtCCD-nwB7lM34w:1kqsSx:oPhODY8nw8qAJAJUGVXQ-7zQ27nckiPCvjNvwFZXDlw",
+        "expire_date": "2021-01-03T06:45:15.756Z"
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "localhost:8000",
+        "name": "localhost:8000"
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 1,
+    "fields": {
+        "provider": "facebook",
+        "name": "Facebook login",
+        "client_id": "1052467248591038",
+        "secret": "a6d90437755dc531017f4784d2548d10",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 2,
+    "fields": {
+        "provider": "google",
+        "name": "Google login",
+        "client_id": "509329097555-8j4obou0430d33f8rtdpncs6278d425k.apps.googleusercontent.com",
+        "secret": "BzB1A0u2RNyD0XAU4XeTsfHk",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "shreenath"
+        ],
+        "provider": "google",
+        "uid": "105153078931188947142",
+        "last_login": "2020-12-19T17:44:01.867Z",
+        "date_joined": "2020-12-18T10:49:04.426Z",
+        "extra_data": "{\"id\": \"105153078931188947142\", \"name\": \"Shreenath Bharadwaj\", \"given_name\": \"Shreenath\", \"family_name\": \"Bharadwaj\", \"picture\": \"https://lh3.googleusercontent.com/a-/AOh14GifsFgd-PrijJR216ICvW_EIHplnMHMQVk5YNZF=s96-c\", \"locale\": \"en-GB\"}"
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "shreenath7"
+        ],
+        "provider": "google",
+        "uid": "114801820534546303153",
+        "last_login": "2020-12-18T10:58:34.070Z",
+        "date_joined": "2020-12-18T10:58:34.070Z",
+        "extra_data": "{\"id\": \"114801820534546303153\", \"name\": \"Shreenath Bharadwaj\", \"given_name\": \"Shreenath\", \"family_name\": \"Bharadwaj\", \"picture\": \"https://lh5.googleusercontent.com/-bL0MM9xzi-s/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnlr-H8CQF6s6nKN6TJgyOV_eDkiQ/s96-c/photo.jpg\", \"locale\": \"en\"}"
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 3,
+    "fields": {
+        "user": [
+            "dr_mahesh"
+        ],
+        "provider": "google",
+        "uid": "115634831648709584992",
+        "last_login": "2020-12-18T10:59:15.598Z",
+        "date_joined": "2020-12-18T10:59:15.599Z",
+        "extra_data": "{\"id\": \"115634831648709584992\", \"name\": \"Dr Mahesh Jha\", \"given_name\": \"Dr Mahesh\", \"family_name\": \"Jha\", \"picture\": \"https://lh3.googleusercontent.com/a-/AOh14Gj3dzncG1b0f4Qs7jaWM1alZBMHUlKfwCfSMZwW=s96-c\", \"locale\": \"en\"}"
+    }
+},
+{
+    "model": "socialaccount.socialtoken",
+    "pk": 1,
+    "fields": {
+        "app": 2,
+        "account": 1,
+        "token": "ya29.a0AfH6SMB804_rpNGMfNp0INXdto_seYlCOgSLXMKB2OFg76BJqCk6kFGdyEBn4PSeQqimvsaw1mDpYPrbCWXxWn5vg9Mjv4tn9LWiBUlTNBhOq8t0L3WFjOIzCty3L8Y3Bopww1Y34tZC9wwau3GqmVmWiAD-8_Sdytl5i73PPPQ",
+        "token_secret": "",
+        "expires_at": "2020-12-19T18:44:00.431Z"
+    }
+},
+{
+    "model": "socialaccount.socialtoken",
+    "pk": 2,
+    "fields": {
+        "app": 2,
+        "account": 2,
+        "token": "ya29.a0AfH6SMC4zb67JModxN-15fT7-F_ET_p01bPH1Lcu65R8S_23jPo_o9CmUtFfgCBa43LS_0pAMjAUfhE0PE0veDmarHOvTBBudRq6wz7e-FYBAARUH4sTEgoWzr5kMII3aNlMffRdJFYIlSNiUVG9UWeyOwa9C8MyGEU6t8o97k4",
+        "token_secret": "",
+        "expires_at": "2020-12-18T11:58:27.100Z"
+    }
+},
+{
+    "model": "socialaccount.socialtoken",
+    "pk": 3,
+    "fields": {
+        "app": 2,
+        "account": 3,
+        "token": "ya29.a0AfH6SMCsb7mn_EPsuNh9RsXhCgaB4n4ZOq4-MEXYFCyMb5B09iLpgI2xDVbL_fs7sqQpPgvYbRTlR7xbg82IH9QGMgIvr-nN14oBKY6S9pC6xdkgZF_fWvSFZcRGe6GQplirol-7nNO9cvmj60_oXRSQeQNOPNckbNtN8Pd34AU",
+        "token_secret": "",
+        "expires_at": "2020-12-18T11:59:08.721Z"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2020-12-13T22:14:43.072Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Team object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2020-12-13T22:23:02.500Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Shreenath",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2020-12-13T22:28:52.645Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Shreenath",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Designation\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2020-12-13T22:29:36.267Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Eacknath",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2020-12-13T22:35:40.207Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Arjun",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2020-12-13T22:36:24.734Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Aakash",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2020-12-13T22:38:13.659Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Rahul",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2020-12-15T04:40:18.940Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Car object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2020-12-15T05:18:04.635Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Car object (1)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2020-12-15T05:21:16.484Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "Car object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2020-12-15T05:25:10.962Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "Car object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2020-12-15T05:28:44.162Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "Car object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2020-12-15T16:12:56.991Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2020-12-16T03:50:38.219Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2018 Toyota 4Runner",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2020-12-16T03:55:10.095Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "2018 Toyota Corolla",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2020-12-16T13:41:39.233Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "2018 Toyota Corolla",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Transmission\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2020-12-18T04:40:58.768Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "shreenathbharadwaj",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2020-12-18T10:16:30.798Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2020-12-18T10:17:56.594Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2020-12-18T10:45:23.870Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "Google login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2020-12-20T06:45:59.234Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Arjun",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2020-12-20T06:46:45.197Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Bill",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2020-12-20T06:49:54.745Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Mark",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2020-12-20T06:52:27.102Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Will",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2020-12-20T06:52:57.684Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Shreenath",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Designation\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2020-12-20T06:53:15.351Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Eacknath",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Designation\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2020-12-20T06:53:26.212Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Mark",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Designation\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2020-12-20T06:53:43.854Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Will",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Designation\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2020-12-20T07:18:04.475Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "2018 Toyota Corolla",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2020-12-20T07:18:23.651Z",
+        "user": [
+            "shreenathbharadwaj"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2018 Toyota 4Runner",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+}
+]
