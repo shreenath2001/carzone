@@ -97,12 +97,12 @@ WSGI_APPLICATION = 'carzone.wsgi.application'
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'carzone_db',
         'USER':'postgres',
-        'PASSWORD':'Shree2001',
+        'PASSWORD':'********',
         'HOST':'localhost',
     }
 } """
 
-DATABASES = {'default': dj_database_url.config(default='postgres://postgres:Shree2001@localhost/carzone_db')}
+DATABASES = {'default': dj_database_url.config(default='postgres://postgres:password@localhost/carzone_db')}
 
 
 # Password validation
@@ -163,7 +163,7 @@ SITE_ID = 1
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'bharadwajshreenath@gmail.com'
-EMAIL_HOST_PASSWORD = 'Shree2001'
+EMAIL_HOST_PASSWORD = '*******'
 EMAIL_USE_TLS = True
 
 # Whitenoise settings
